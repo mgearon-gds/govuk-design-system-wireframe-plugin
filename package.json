@@ -1,7 +1,7 @@
 {
-  "name": "govuk-design-system-wireframe-plugin",
+  "name": "govuk-prototype-kit-wireframe-plugin",
   "version": "1.0.0",
-  "description": "A plugin for the GOV.UK Design System that reduces the fidelity of the prototype",
+  "description": "A plugin for the GOV.UK Prototype Kit that reduces the fidelity of the prototype",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

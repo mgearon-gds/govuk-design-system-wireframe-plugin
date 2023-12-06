@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Flow+Block&family=Flow+Circular&display=swap');
 
+body *{
+  font-family: Balsamiq Sans, sans-serif !important;
+}
+
 .govuk-button{
     background-color: white !important;
     color: black !important;
