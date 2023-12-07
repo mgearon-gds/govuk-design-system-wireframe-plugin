@@ -1,5 +1,8 @@
 {
     "stylesheets": [
         "/styles.css"
+    ],
+    "assets": [
+        "/assets/"
     ]
 }
